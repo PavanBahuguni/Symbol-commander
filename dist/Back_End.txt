@@ -1,0 +1,12 @@
+L
+2
+C:\Users\User\AppData\Local\Popcorn-Time
+pop
+S
+2
+E:\eclipse\eclipse.exe
+eclipse
+U
+2
+https://www.hackerrank.com/dashboard
+hack
